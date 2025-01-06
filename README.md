@@ -4,6 +4,9 @@ Sound and Image Engineer. There will be three different levels: Basic, Medium an
 we will see a wide variety of exercises.
 
 📂Basic
+  - Inventory
+  - Passwords Generator
+  - Basic Stadstic Calculator
 
 📂Medium
 
