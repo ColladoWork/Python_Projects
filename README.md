@@ -5,9 +5,11 @@ we will see a wide variety of exercises.
 
 📂Basic
   - Inventory
-  - Passwords Generator
-  - Basic Stadstic Calculator
+  - Password Generator
+  - Basic Statistic Calculator
 
 📂Medium
 
 📂Advanced
+
+Suggestions and comments are welcome ! 😄
