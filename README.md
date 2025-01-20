@@ -5,10 +5,9 @@ we will see a wide variety of exercises.
 
 📂Basic
   - Inventory
-  - Password Generator
-  - Basic Statistic Calculator
 
-📂Medium
+📂Intermediate
+  - Image_Filtering.py
 
 📂Advanced
 
